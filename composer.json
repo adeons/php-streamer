@@ -1,0 +1,12 @@
+{
+    "name": "adeons/php-streamer",
+    "type": "library",
+    "description": "Simple class for PHP 5.3+ to iterate over lazily loaded values.",
+    "license": "BSD-2-Clause",
+    "require": {
+        "php": ">= 5.3.0"
+    },
+    "autoload": {
+        "classmap": [""]
+    }
+}
